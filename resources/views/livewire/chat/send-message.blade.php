@@ -1,3 +1,5 @@
 <div>
-<div class="chatbox_footer"></div>
+<div class="chatbox_footer">
+  footer
+</div>
 </div>

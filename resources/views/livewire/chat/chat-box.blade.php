@@ -10,8 +10,4 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum dolorum ad nisi sequi quaerat quisquam sapiente
         quia consectetur quas fugit similique tempora molestiae ullam, possimus nulla, facilis nemo minima facere!
     </div>
-
-    <div class="chatbox_footer">
-        footer
-    </div>
 </div>
